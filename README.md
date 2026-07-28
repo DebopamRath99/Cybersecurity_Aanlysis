@@ -206,35 +206,6 @@ Evaluates cybersecurity defense mechanisms.
 
 ---
 
-# 📁 Repository Structure
-
-```
-Global-Cybersecurity-Threat-Analysis/
-│
-├── Dashboard/
-│   └── Global Cybersecurity Threat Analysis.pbix
-│
-├── Dataset/
-│   └── Cybersecurity_Dataset.xlsx
-│
-├── Presentation/
-│   └── Project_Presentation.pptx
-│
-├── Images/
-│   ├── Executive_Overview.png
-│   ├── Threat_Intelligence.png
-│   ├── Financial_Loss_Analysis.png
-│   └── Defense_Response_Analysis.png
-│
-├── README.md
-│
-└── LICENSE
-```
-
----
-
-# 🖼 Dashboard Preview
-
 ## Executive Overview
 
 ![Executive Overview](Images/Executive_Overview.png)
