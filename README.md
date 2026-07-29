@@ -123,7 +123,7 @@ Focuses on cyber risk and threat patterns.
 
 Analyzes financial impact caused by different cyber attacks.
 
-![Dashboard_2](Financial_Risk.png)
+![Dashboard_2](Financial_Risk_Analysis.png)
 
 ### KPIs
 
