@@ -100,7 +100,7 @@ Provides a high-level overview of cyber attack trends and business impact.
 
 ## 📌 2. Threat Intelligence Analysis
 
-![Dashboard_2](Thhrreat_Intelligence.png)
+![Dashboard_2](Threat_Intelligence.png)
 
 Focuses on cyber risk and threat patterns.
 
@@ -123,7 +123,7 @@ Focuses on cyber risk and threat patterns.
 
 Analyzes financial impact caused by different cyber attacks.
 
-![Dashboard_3](Financial_Risk Analysis.png)
+![Dashboard_2](Financial_Risk.png)
 
 ### KPIs
 
@@ -211,30 +211,6 @@ Evaluates cybersecurity defense mechanisms.
 - Expand AI-powered threat detection capabilities.
 - Focus cybersecurity investments on high-risk industries such as IT and Banking.
 - Improve incident response times through automated security operations.
-
----
-
-## Executive Overview
-
-![Executive Overview](Images/Executive_Overview.png)
-
----
-
-## Threat Intelligence Analysis
-
-![Threat Intelligence](Images/Threat_Intelligence.png)
-
----
-
-## Financial Loss & Risk Analysis
-
-![Financial Analysis](Images/Financial_Loss_Analysis.png)
-
----
-
-## Defense & Response Analysis
-
-![Defense Analysis](Images/Defense_Response_Analysis.png)
 
 ---
 
