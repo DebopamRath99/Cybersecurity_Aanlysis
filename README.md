@@ -76,6 +76,8 @@ Additional business features created during analysis:
 
 ## 📌 1. Executive Overview
 
+![Dashboard_1](EXECUTIVE_OVERVIEW_DASHBOARD.png)
+
 Provides a high-level overview of cyber attack trends and business impact.
 
 ### KPIs
@@ -98,6 +100,8 @@ Provides a high-level overview of cyber attack trends and business impact.
 
 ## 📌 2. Threat Intelligence Analysis
 
+![Dashboard_2](Thhrreat_Intelligence.png)
+
 Focuses on cyber risk and threat patterns.
 
 ### KPIs
@@ -119,6 +123,8 @@ Focuses on cyber risk and threat patterns.
 
 Analyzes financial impact caused by different cyber attacks.
 
+![Dashboard_3](Financial_Risk Analysis.png)
+
 ### KPIs
 
 - Maximum Loss
@@ -139,6 +145,8 @@ Analyzes financial impact caused by different cyber attacks.
 ## 📌 4. Defense & Response Analysis
 
 Evaluates cybersecurity defense mechanisms.
+
+![Dashboard_4](Defence_response_Analysis.png)
 
 ### KPIs
 
